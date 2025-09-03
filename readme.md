@@ -50,7 +50,6 @@ The app allows users to:
 
    * Logistic Regression
    * Random Forest
-   * XGBoost
 
 3. **Evaluation Metrics**
 
@@ -81,23 +80,12 @@ Run the Streamlit app:
 streamlit run app.py
 ```
 
----
-
-
-
 ## 🔮 Future Work
 
 * Improve dataset size and feature richness.
 * Deploy with Docker for scalability.
 * Integrate with real-time insurance APIs.
 * Experiment with deep learning models.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to fork the repo and submit a PR.
-
 ---
 
 ## 📜 License

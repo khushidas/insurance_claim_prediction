@@ -1,8 +1,4 @@
-Got it ✅ I’ll draft a professional `README.md` template for your ML project (insurance claim prediction app). You can later customize the details (dataset, models, results) as needed.
 
-Here’s a solid version for your project:
-
----
 
 # 🚑 Insurance Claim Prediction
 
@@ -87,13 +83,7 @@ streamlit run app.py
 
 ---
 
-## 📈 Results
 
-* Best performing model: **Random Forest (Accuracy \~85%)**
-* Key drivers of claim prediction: claim amount, accident history, policy tenure.
-* Interactive visualizations included in the app.
-
----
 
 ## 🔮 Future Work
 
@@ -114,6 +104,4 @@ Contributions are welcome! Feel free to fork the repo and submit a PR.
 
 This project is licensed under the MIT License.
 
----
 
-Would you like me to also **add badges (like GitHub stars, license, Python version, etc.)** at the top of the README to make it look more professional?
